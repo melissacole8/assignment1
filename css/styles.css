@@ -15,10 +15,24 @@ h1 {
     font-family: "arial";
 }
 
+.testtwo {
+    background-color: cornflowerblue;
+}
+
+.cis-260 {
+    color: chartreuse;
+    background-color: cadetblue
+}
+
+
 p {
     color: coral;
     background-color: azure;
     }
+
+.test {
+    background-color: darkgreen;
+}
 
 a {
     color: red;
