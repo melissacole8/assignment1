@@ -20,13 +20,14 @@ h1 {
 }
 
 .cis-260 {
-    color: chartreuse;
+/*    color: chartreuse;*/
     background-color: cadetblue
 }
 
 
 p {
     color: coral;
+    font-size: 32pt;
     background-color: azure;
     }
 
