@@ -21,15 +21,25 @@ h1 {
 
 .cis-260 {
 /*    color: chartreuse;*/
+    font-family: cursive
     background-color: cadetblue
 }
 
 
 p {
-    color: coral;
-    font-size: 32pt;
+    color: #ff0000;
+    font-size: 22pt;
     background-color: azure;
     }
+
+#special-paragraph {
+    color: #0000ff;
+}
+
+#new {
+    color: #00ff00
+}
+]
 
 .test {
     background-color: darkgreen;
@@ -37,4 +47,8 @@ p {
 
 a {
     color: red;
+}
+
+body p a {
+    font-family: cursive;
 }
