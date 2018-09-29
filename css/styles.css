@@ -39,7 +39,7 @@ p {
 #new {
     color: #00ff00
 }
-]
+
 
 .test {
     background-color: darkgreen;
@@ -51,4 +51,8 @@ a {
 
 body p a {
     font-family: cursive;
+}
+
+.homework {
+    background-color: lightcoral;
 }
